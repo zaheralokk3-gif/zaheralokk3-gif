@@ -6,13 +6,6 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+[Your+Name];Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+Expert;Building+Pixel+Perfect+UI;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<!-- Followers -->
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
-
 <!-- Social Media -->
 <p align="center">
   <a href="https://linkedin.com/in/zaheralok"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
