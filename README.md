@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <!-- Followers -->
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=blue" alt="Followers"/>
+
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
 
 <!-- Social Media -->
