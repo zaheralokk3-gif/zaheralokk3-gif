@@ -21,9 +21,9 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "zaher alokk",
     role: "Front-End Developer",
-    location: "Your Country 🌍",
+    location: "syria 🌍",
     skills: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
     passion: "Creating beautiful, fast & accessible web experiences",
     currentlyLearning: ["React", "Next.js", "TypeScript"],
