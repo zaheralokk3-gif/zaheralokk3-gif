@@ -15,10 +15,10 @@
 
 <!-- Social Media -->
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/zaheralok"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/zaheralok"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
 </p>
 
 </div>
@@ -29,13 +29,13 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "zaher alokk",
     role: "Front-End Developer",
-    location: "Your Country 🌍",
+    location: "syria",
     languages: ["Arabic 🇸🇦", "English 🇺🇸"],
     skills: {
         frontend: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
-        tools: ["Git", "GitHub", "VS Code", "Figma"],
+        tools: ["Git", "GitHub", "VS Code"],
         learning: ["React", "Next.js", "TypeScript"]
     },
     passion: "Creating beautiful, fast & accessible web experiences",
